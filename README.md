@@ -1,2 +1,1 @@
-# file-metadata
-File Metadata Microservice
+# File Metadata Microservice
